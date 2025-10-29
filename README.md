@@ -1,6 +1,9 @@
 
 # Crear y activar el entorno virtual
 
+virtualenv env  
+/env/Scripts/activate.bat
+
 # requerimientos
 
 pip install plotly numpy pandas sdv
